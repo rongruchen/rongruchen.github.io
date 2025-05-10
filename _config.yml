@@ -10,7 +10,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "jekyll-theme-Cayman"
+site_theme               : "Cayman"
 title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Your Name"
