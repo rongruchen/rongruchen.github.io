@@ -7,7 +7,7 @@
 # server process.
 
 # theme: jekyll-theme-Cayman
-
+remote_theme: samarsault/plainwhite-jekyll
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "Cayman"
